@@ -2,7 +2,7 @@
 
 Find lanes in an image or a video of a road.
 
-
+![img](https://raw.githubusercontent.com/arjiomega/road-lane-detection/main/resources/readme_showcase.png)
 
 ## Setup
 
