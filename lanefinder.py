@@ -125,11 +125,11 @@ class LaneFinder:
                     break
 
 def test_from_img():
-    lane_finder = LaneFinder.from_image("./test_image.jpg")
+    lane_finder = LaneFinder.from_image("./resources/test_image.jpg")
     lane_finder.run()
 
 def test_from_vid():
-    lane_finder = LaneFinder.from_video("./test.mp4")
+    lane_finder = LaneFinder.from_video("./resources/test.mp4")
     lane_finder.run()
 
 if __name__ == "__main__":
